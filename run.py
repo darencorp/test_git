@@ -4,3 +4,5 @@ if __name__ == '__main__':
         # ihor change
         # commentsdfgdn drsgfhjkf ddjfhkg drgfhdj dsfghdjf
         print('version 11')
+
+        print('finish')
